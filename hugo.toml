@@ -27,14 +27,14 @@ paginate = 10
   email = "jamie.nunez01@gmail.com"
 
 [params]
-  title = "Welcome"
-  description = ""
-  profilePicture = "images/profile.jpg"
+  title = "WE'VE BEEN EXPECTING YOU"
+  description = "fe"
+  profilePicture = "images/psbattle_these_three.jpg"
   favicon = "favicons/"
   customCss = []
   customJs = []
   displayMode = "dark"
-  images = ['images/profile.jpg']
+  images = ['images/psbattle_these_three.jpg']
 
 [taxonomies]
   series = 'series'
